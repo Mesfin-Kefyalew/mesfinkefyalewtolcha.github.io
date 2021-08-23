@@ -1,0 +1,55 @@
+
+
+/*-------------nav------------------------*/
+
+.nav-item:hover, .navbar-brand:hover{
+    background-color: rgb(86, 101, 165) !important;
+}
+
+/*-----------section one: aboutMe ------------------*/
+#headShot{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+#codingImage{
+    margin-bottom: 3em;
+}
+
+#shortSummaryContainer{
+
+    padding-bottom: 10em;
+}
+
+
+#attributesContainer{
+    margin-top:-3em;
+}
+/*---------------------------*/
+
+#languageProficiency{
+    margin: 0;
+    padding: 0;
+}
+
+.lang-item{
+    list-style-type: none;
+}
+
+#coursesTaken .row>*{
+    margin-bottom: 1em;
+}
+
+.social-media{
+    width:50%;
+    border: solid white 2px;
+}
+.social-media>div>img{
+ width: 50px;
+}
+
+
+footer{
+    padding: 5rem;
+    margin-top: 2rem;
+}
